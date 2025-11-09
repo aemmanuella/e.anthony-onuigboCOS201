@@ -14,12 +14,5 @@ int main(){
         cout << "You are NOT an adult.";
     }
 
-    bool Far;
-    cout << "enter:";
-    cin >> Far;
-    cout << Far;
-
-
-
     return 0;
 }
